@@ -1,4 +1,5 @@
 # 🍹 JuiceToast
+[!WARN]: This Package Are Deprecated And This Repository Is Public Archival. 
 
 > Lightweight, powerful, modern toast notification library.  
 > Zero dependencies. Promise-ready. Plugin system. Priority queue.
